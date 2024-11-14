@@ -20,3 +20,12 @@ var readFileStub = sinon.stub(fs, 'readFile', function(path, cb) {
 
 expect(readFileStub).to.be.called;
 readFileStub.restore();
+
+
+// writefile , readFile, readFileSync
+// ActiveX objects
+// php - fopen(),fread() and fwrite()
+
+// To write the contents to the file use fwrite() function
+editFile = fopen("c:\MyNewFile.txt", 3);// opens the file for writing
+fwrite(file, str);// str is the content that is to be written into the file.
