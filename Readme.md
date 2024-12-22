@@ -350,4 +350,141 @@ peerDependencies - Dependencies that your project hooks into, or modifies, in th
 Answer: To solve the process out of memory exception in Node.js we need to increase the max-old-space-size. By default the max size of max-old-space-size is 512 mb which you can increase by the command:
 
 node --max-old-space-size=1024 file.js
+
+https://nodejs.org/en/docs/guides/
+
+IAB protocols like VAST, VPAID, MRAID is a plus
+
+https://clearcode.cc/blog/vast-vpaid-vmap-mraid/
+
+how the browsers work (HTTP, Cookies, pre-fetching, Preloading, Caching, Synchronous / Asynchronous Requests).
+
+https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
+
+https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf
+unit testing using jest, mocha
+
+Static analysis tools-  packages- eslint,JShint,SonarCloud, Prettier, FB Flow Husky
+Documentation -Raneto, Notes
+Keeping dependencies up-to-date and secure - npm install -g npm-dview, Dependabot github, npm-audit
+
+StrongLoop - Open-Source options for the API developer community, such as LoopBack, API Microgateway, and Open API to graphql- like express - new framework
+
+Node Debugging - for debugging the code- node inspect server.js
+
+Node Global variables and In-built libraries (e.g. Immutable.js).
+
+Distributed Cache
+
+Scalable components Understanding
+
+Service Discovery, Distributed Tracing & Monitoring
+
+Fault Tolerance, Concurrency Issues, Distributed Transaction
+
+API design
+
+Data Partitioning
+
+Consistent Hashing
+
+Capacity planning
+
+Stateless servers
+
+Distributed Queues
+
+Consistency models (Strong consistency vs. Eventual Consistency).
+
+CAP Theorem- states that a distributed database system can only guarantee two out of these three characteristics: Consistency, Availability, and Partition Tolerance.
+
+nodes  -> same data
+
+OS and Concurrency
+
+Amdahl’s Law, Moore’s Law
+
+Memory Models
+
+Dining Philosophers problem
+
+Uber Ride problem
+
+Mutexes/semaphores
+
+Memory management
+
+Paging
+
+Virtual Memory
+
+Dynamic Memory Allocation
+
+Watermarking
+
+Threading & Concurrency Control
+
+Deadlocks/mutex
+
+Scheduling algorithms
+
+Interprocess communication
+
+How are large files stored?
+
+Test your software design and architecture skills.
+
+https://nodecongress.com/   
+
+https://nodecongress.com/badge/arshmohd
+
+Build custom CRUD apps that talk to any API or database. All without HTML or CSS.  
+
+Create Dynamic Views.  
+
+Build UI Connect to ANY database,   
+
+Node project with ts node to run ts files and find execution time
+
+https://www.interviewbit.com/node-js-interview-questions
+
+https://www.codementor.io/@parthibakumarmurugesan/what-is-env-how-to-set-up-and-run-a-env-file-in-node-1pnyxw9yxj
+
+https://devcenter.heroku.com/articles/getting-started-with-nodejs
+
+https://fullstackopen.com/en/   Learning    
+
+https://roadmap.sh/backend
+
+build a data lake for the organisation-wise use case. it will be like a central data lake, which should serve the Multitenancy model to use that data lake.
+
+https://stoplight.io/      Design, Document & Build APIs Faster
+
+https://reconshell.com/best-nodejs-frameworks-for-developers/
+
+https://www.freecodecamp.org/news/nodejs-and-cloud-firestore-tutorial-build-a-home-inventory-system/
+
+https://javascript.plainenglish.io/how-to-schedule-emails-with-node-js-31e9a61e7c57
+
+https://www.freecodecamp.org/news/automate-simple-tasks-with-nodejs/
+
+https://docs.cpanel.net/knowledge-base/web-services/how-to-install-a-node.js-application/
+
+Sails.js | Realtime MVC Framework for Node.js
+
+learnworthy.net/best-backend-technologies-to-use-in-2019/
+
+https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/
+
+https://www.youtube.com/watch?v=Fp8Dv2sphAI node.js
+
+https://www.codementor.io/@mhlungusk/a-file-database-from-scratch-in-node-js-part-1-1upj8ltmn0?ref=newsletter
+
+https://blog.logrocket.com/using-gstreamer-node-js
+
+      https://www.interviewbit.com/node-js-interview-questions/                                                              
+
+nvm
+
+https://www.linode.com/docs/guides/how-to-install-use-node-version-manager-nvm/?tabs=wget
 ```
