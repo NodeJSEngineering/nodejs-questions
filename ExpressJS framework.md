@@ -311,9 +311,5 @@ https://hapi.dev/tutorials/expresstohapi/?lang=en_US   migration guide
 
 Multer is a node.js middleware for handling multipart/form-data , which is primarily used for uploading files.
 
-multer-s3
-Streaming multer storage engine for AWS S3.
-upload data to AWS S3
 
-aws-sdk npm
-to configure aws details
+
