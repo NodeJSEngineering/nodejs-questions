@@ -1,5 +1,3 @@
-index-
-
 about
 Advantages
 Express setup

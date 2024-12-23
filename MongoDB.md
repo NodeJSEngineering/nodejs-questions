@@ -1,6 +1,3 @@
-
-index-
-
 MongoDB
 MongoDB vs SQLite
 Setup- mongo commands
