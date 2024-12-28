@@ -2,7 +2,6 @@ about
 Advantages
 Express setup
 why Choose Express
-backend project structure
 Express Dependencies /packages
 ways to send responses using Express
 API details
@@ -59,7 +58,7 @@ You want to create an app like GoDaddy for registering domains and offering web 
 
 You want to develop a web app like Coursera that provides open online courses.
 
-backend project structure
+backend project structure:
 
 Controller
 
