@@ -486,6 +486,6 @@ https://blog.logrocket.com/using-gstreamer-node-js
       https://www.interviewbit.com/node-js-interview-questions/                                                              
 
 nvm
-
+nvm list
 https://www.linode.com/docs/guides/how-to-install-use-node-version-manager-nvm/?tabs=wget
 ```
