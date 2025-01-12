@@ -304,3 +304,10 @@ Companies that use SQL-
 HSBC, Microsoft, Ford etc.
 
 If a company has a DB. They are using SQL queries.
+
+
+The database for modern applications
+MongoDB is a general purpose, document-based, distributed
+database built for modern application developers and for the cloud
+era.
+No database makes you more productive.
